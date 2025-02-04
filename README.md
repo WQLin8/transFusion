@@ -1,6 +1,13 @@
 # transFusion: A Web-based Interactive Integrator for Spatial and Single-Cell Transcriptomes
 
+<p align="center">
+  <img src="Graphical_abstract.jpg" alt="transFusion Overview" width="150" align="right">
+</p>
+
 **transFusion** is a user-friendly, freely accessible tool developed to streamline the analysis of human and mouse scRNA-seq and ST data, leveraging advanced analytical techniques. It empowers researchers to gain deeper insights into spatially driven biological processes, including complex cell-cell communication networks, spatial regulatory networks, and tissue-specific functional organization.
+
+
+
 
 ## How to Use transFusion
 
