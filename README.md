@@ -14,7 +14,7 @@ sudo docker pull wlin8/transfusion:v1
 ```
 the relevant Docker Hub repository can be found at <https://hub.docker.com/repository/docker/wlin8/transfusion>.
 
-To run the image, run
+To use the platform, run
 
 ```bash
 sudo docker run --rm --gpus all wlin8/transfusion:v1
