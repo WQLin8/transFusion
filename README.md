@@ -35,7 +35,7 @@ Alternatively, you can directly access transFusion via the cloud:
 
 ## Citation
 
-Weiqiang Lin, Xinyi Xiao, Hui Shen, Hongwen Deng*. transFusion: A Web-based Interactive Integrator for Spatial and Single-Cell Transcriptomes.
+Weiqiang Lin, Xinyi Xiao, Chuan Qiu, Hui Shen, Hongwen Deng*. transFusion: A Web-based Interactive Integrator for Spatial and Single-Cell Transcriptomes.
 
 ## Contact
 
